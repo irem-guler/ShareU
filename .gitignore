@@ -1,0 +1,9 @@
+# SQL Server database files
+*.sql
+*.mdf
+*.ldf
+
+# Visual Studio
+bin/
+obj/
+.vs/
