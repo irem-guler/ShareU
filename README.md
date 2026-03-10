@@ -84,5 +84,5 @@ ShareU4.sln
 
 ## Author
 
-İrem Güler
-Software Engineering Student
+Enes Aytekin & İrem Güler
+Software Engineering Students
